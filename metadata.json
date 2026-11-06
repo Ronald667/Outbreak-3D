@@ -1,0 +1,6 @@
+{
+  "name": "Outbreak 3D: Zombie Survival Apex",
+  "description": "Immersive 3D zombie survival game with physics-based combat, weapon upgrades, Pack-a-Punch, multiple environments, and co-op multiplayer survival modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
